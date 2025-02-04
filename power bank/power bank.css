@@ -1,0 +1,165 @@
+.bar{
+    display: flex;
+}
+.home-logo{
+    background-color: rgb(250, 220, 249);
+    width: 20%;
+    text-align: center;
+}
+.up-to-date-mobiles{
+    width: 100%;
+    padding-left: 25%;
+}
+header{
+    background-color: rgb(250, 220, 249);
+    padding: 5px;
+    color: rgb(156, 186, 249);
+}
+.con{
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+}
+.container{
+    display: flex;
+    /*flex-direction: row-reverse;
+    flex-wrap: wrap;*/
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(255, 241, 253);
+}
+.container .items{
+    margin: 10px;
+}
+.container3 .power{
+    text-decoration: none;
+    margin: 15px;
+    background-color: rgb(255, 255, 255);
+    padding: 8px;
+    border-radius: 5px;
+    color: black;
+}
+.container3{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: rgb(249, 204, 242);
+}
+.container3 .power:hover{
+    background-color: rgb(245, 215, 245);
+    color: rgb(0, 0, 0);
+}
+.items{
+    color: black;
+    text-align: center;
+    margin: 15px;
+    text-decoration: none;
+    background-color: white;
+    padding: 8px;
+    border: 0px;
+    border-radius: 5px;
+}
+.items:hover{
+    background-color: rgb(245, 215, 245);
+    color: rgb(156, 186, 249);
+}
+.items1{
+    color: rgb(255, 0, 0);
+    text-align: center;
+    margin: 15px;
+    text-decoration: none;
+    background-color: white;
+    padding: 8px;
+    border: 0px;
+    border-radius: 5px;
+}
+.items1:hover{
+    background-color: rgb(245, 215, 245);
+    color: rgb(156, 186, 249);
+}
+
+/* ----------------------------------------------- */
+
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.container2{
+    padding: 30px;
+}
+.container2 > a >img{
+    border: 2px solid grey;
+    border-radius: 3px;
+}
+.container2 h3{
+    width: 300px;
+    text-align: justify;
+}
+
+
+
+
+
+
+
+
+
+
+/* body{
+    background-image: url("./power.png");
+    background-size: cover;
+}
+.power{
+    text-decoration: none;
+    border: 3px solid rgb(48, 255, 2);
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    border-radius: 10px;
+}
+.power:hover{
+    border: 3px solid red;
+}
+.container{
+    display: flex;
+    align-items: top;
+    padding-top: 100px;
+    justify-content: space-evenly;
+}
+.class{
+    text-decoration: none;
+    color: red;
+}
+.class:hover{
+    color: rgb(26, 255, 0);
+}
+.mm{
+    text-align: left;
+    padding-left: 100px;
+}
+.power1{
+    background-image: url("../mi.jpeg");
+    background-position: center;
+    background-size: cover;
+}
+.power2{
+    background-image: url("../sam2.png");
+    background-position: center;
+    background-size: cover;
+}
+.power3{
+    background-image: url("./oneplus.png");
+    background-position: center;
+    background-size: cover;
+}
+.power4{
+    background-image: url("./sony.webp");
+    background-position: center;
+    background-size: cover;
+}
+.power5{
+    background-image: url("./boa.webp");
+    background-position: center;
+    background-size: cover;
+} */
